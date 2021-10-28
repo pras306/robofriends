@@ -1,4 +1,4 @@
-# Read me Template
+# Robofriends
 
 ![Robofriends](src/assets/images/robofriends.png)
 
@@ -23,7 +23,7 @@ This is a simple web application that displays basic user details with searching
 - React JS
 - Redux
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#robofriends)
 
 ---
 
@@ -59,11 +59,11 @@ Start the server
 
 #### API Reference
 
-[JSON Placeholder](https://jsonplaceholder.typicode.com/)
-[Robo Hash](https://robohash.org/)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Robo Hash](https://robohash.org/)
 
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#robofriends)
 
 ---
 
@@ -71,7 +71,7 @@ Start the server
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2021] [Prasanna Sriram]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -91,7 +91,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#robofriends)
 
 ---
 
@@ -100,4 +100,4 @@ SOFTWARE.
 - Github - [pras306](https://github.com/pras306)
 - LinkedIn - [Prasanna Sriram](https://www.linkedin.com/in/prasanna-sriram/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#robofriends)
